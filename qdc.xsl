@@ -51,7 +51,7 @@ Modified for DSpace -> ALMA-D
                     </dc:creator>
                </xsl:for-each>
                <!--
-               dc.contributor
+               dc.creator
                -->
                <xsl:for-each select="doc:metadata/doc:element[@name='dc']/doc:element[@name='contributor']/doc:element[@name='author']/doc:element/doc:field[@name='value']">
                     <dc:creator>
