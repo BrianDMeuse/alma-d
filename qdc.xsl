@@ -11,6 +11,7 @@
 
 > http://www.openarchives.org/OAI/2.0/oai_dc.xsd
 
+Modified for DSpace -> ALMA-D
  -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
      xmlns:doc="http://www.lyncode.com/xoai" version="1.0">
